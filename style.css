@@ -1,0 +1,21 @@
+body {
+    background-color: #f3f2ef;
+}
+
+::placeholder {
+    font-size: small;
+    }
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar {
+    position: sticky;
+    top: 7%;
+}
+
+.f-smaller {
+    font-size: smaller;
+}
